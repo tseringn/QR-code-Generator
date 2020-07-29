@@ -1,3 +1,6 @@
-# controlledFormJs
-#we create create a form that has an input and button having search fun from scrach make it controlled by state using React
-1. so to create a new app, we will use ```npx create-react-app controlledFrom```
+# QR-code-generator
+used http://goqr.me/api/ as qr-code-generator api
+used 'JS' as front-end language
+used bootstrap as css framework
+Development Time: ~3 hours
+
